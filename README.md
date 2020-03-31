@@ -1,20 +1,19 @@
-# OSMDB - Catálogo de Filmes
-O aplicativo se concentrará na criação e manutenção de um filme
-banco de dados, bem como as pessoas envolvidas no filme (elenco e equipe). Os filmes terão
-informações como título, resumo da trama e gênero. As pessoas terão informações biográficas
-como nome e data de nascimento, bem como conexão com os filmes em que trabalharam e em
-que capacidade.
-Os usuários do aplicativo de filme poderão acessar todas essas informações, mas também comentar em filmes e avalie-os. Essas classificações serão agregadas para referência de outros usuários, o que significa que os outros usuários possam ver as classificações médias e todos os comentários sobre um filme.
-Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) filmes, como também atores ou membros da equipe e associe-os a um filme.
+# Bates Motel - Sistema de controle de Hoteis
+Sistema de controle de hoteis para equipe do hotel
+reservar quartos para hóspedes. Cada quarto de hotel acomoda um número de adultos e um número de crianças, inclui algumas comodidades (televisão, acesso à Internet etc.) e tem um preço
+por noite.
+Um hóspede do hotel telefona para fazer uma reserva e o funcionário da recepção verifica se há quartos disponíveis. Se houver um quarto disponível, o funcionário registra a reserva no sistema com o nome do hóspede, as datas de chegada e saída, juntamente com o número de adultos e crianças que ficam no quarto.
+Na chegada, o hóspede confirma a reserva na recepção e faz o check-in. 
+Na partida, o hóspede faz check-out na recepção.
 
 <h1 align="center">
-    <img alt="OSMDB - Catálogo de Filmes" src="" />
+    <img alt="Bates Motel - Sistema de controle de Hoteis" src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/capa.png" />
     <br>
-    OSMDB 
+    Bates Motel 
 </h1>
 
 <h3 align="center">
-  A film database system platform
+  Hotel control platform
 </h3>
 
 
@@ -23,14 +22,15 @@ Os administradores do aplicativo de filmes poderão adicionar novos (ou editar) 
 <div align="center">
 
   <p align="center">
-    The application will focus on creating and maintaining a movie
-database, as well as the people involved in the film (cast and crew). Movies will have
-information such as title, plot summary and genre. People will have biographical information such as name and date of birth, as well as connection to the movies they worked on and in what capacity.
-Users of the movie application will be able to access all of this information, but also comment on movies and rate them. These ratings will be aggregated for other users’ reference, meaning that the other users can see the average ratings and all the comments about a movie. Administrators of the movie application will be able to add new (or edit existing) movies, as also
-actors or members of the crew and associate them with a movie.
+    Hotel control system for hotel staff
+book rooms for guests. Each hotel room accommodates a number of adults and a number of children, includes some amenities (TV, Internet access etc.) and is priced
+per night.
+A hotel guest calls to make a reservation and the front desk clerk checks if rooms are available. If a room is available, the employee records the reservation in the system with the guest's name, arrival and departure dates, along with the number of adults and children staying in the room.
+Upon arrival, the guest confirms the reservation at the reception and checks in.
+Upon departure, the guest checks out at the reception.
   </p>
 
-  <img alt="OSMDB - Catálogo de Filmes" width="400" src="" />
+  <img alt="Bates Motel - Sistema de controle de Hoteis" width="300" src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/capa.png" />
 </div>
 
 ## 🖥 Technologies
@@ -43,7 +43,18 @@ This project was developed with outsystems, the platform has all the most advanc
 
 Below are some screenshots of the application in operation.
 
-  <img src="" />
+  <img src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.14.56.png" />
+  </br>
+  <img src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.15.04.png" />
+  </br>
+  <img src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.15.18.png" />
+  </br>
+  <img src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.15.28.png" />
+  </br>
+  <img src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.15.37.png" />
+  </br>
+  <img src="https://github.com/wallacemancciny/batesmotel/blob/master/Prints/Screen%20Shot%202020-03-30%20at%2023.16.13.png" />
+  </br>
 </div>
 
 ## 🚀 Getting started
@@ -52,9 +63,9 @@ First of all, you need to download and install the latest Service Estudio at the
 
   After that, you can clone this repository with the following command below:
 
-git clone https:
+git clone https://github.com/wallacemancciny/batesmotel.git
 
-After downloading the repository to your machine, with the service studio open, upload the file with the extension ".opa" and publish the project.
+After downloading the repository to your machine, with the service studio open, upload the file with the extension ".oap" and publish the project.
 
 There, from now on the system will gain a unique address to be viewed and handled in your browser.
 
